@@ -1,0 +1,12 @@
+﻿{
+  "files": [
+    "{ClassName}Service.cs",
+    "I{ClassName}Service.cs",
+    "{ClassName}ServiceConfig.cs",
+    "{ClassName}ServiceExtension.cs"
+  ],
+  "keywords": [
+    "ClassName",
+    "Namespace"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TemplateGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-path C:\\Users\\kamil\\Desktop\\TemplateGenerator -namespace TemplateGenerator"
+    }
+  }
+}

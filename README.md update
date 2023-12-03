@@ -4,6 +4,8 @@ A tool for programmers, allowing place predefined codes (templates) in project, 
 
 ![Screen form application (screen.png)](screen.png)
 
+NOTICE!: Sample templates are placed under catalog SampleTemplates.  
+
 ## How it works
 
 The application runs on a specific directory structure that is placed next to the application runtime file.
@@ -13,10 +15,10 @@ The application runs on a specific directory structure that is placed next to th
    📂 LanguageCatalog (e.g.: CSharp)
       📂 TemplateCatalog (e.g.: AspNetCoreService)
          📄 template.json
-		 📄 
-		 📄 
-		 📄 
-		 📄 
+         📄 {ClassName}Service.cs
+         📄 I{ClassName}Service.cs
+         📄 {ClassName}ServiceConfig.cs
+         📄 {ClassName}ServiceExtension.cs
       📂 NextTemplateCatalog
 	  ...
    📂 NextLanguageCatalog
